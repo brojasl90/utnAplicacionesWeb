@@ -1,0 +1,40 @@
+{
+	"titulo" : "Zaguates pequeños en adopción",
+	"mensaje" : "Si estas buscando una mascota pequeña acá podras encontrar unas lindas opciones para adoptar, no te pierdas esta oportunidad",
+	"fechaIngreso" : "Agosto 2020",
+	"cantidad" :	5,
+	"active" :	true,
+	"estado" : "Disponibles",
+	"mascotas" : [
+		{
+			"Nombre" : "Candy",
+			"Genero" : "Hembra",
+			"Edad" : "2 años",
+			"Descripción" : "Es muy cariñosa y juguetona..."
+		},
+		{
+			"Nombre" : "Coco",
+			"Genero" : "Macho",
+			"Edad" : "2 meses",
+			"Descripción" : "Es muy tierno, está desparramado"
+		},
+		{
+			"Nombre" : "Maylo",
+			"Genero" : "Macho",
+			"Edad" : "1 año",
+			"Descripción" : "Es enérgico, simpático, cariñoso"
+		},
+		{
+			"Nombre" : "Manchas",
+			"Genero" : "Macho",
+			"Edad" : "2.5 Años",
+			"Descripción" : "Es muy consentida y extremadamente sociable"
+		},	
+		{
+			"Nombre" : "Filomena",
+			"Genero" : "Hembra",
+			"Edad" : "6 Meses",
+			"Descripción" : "Especial para cuidar la casa"
+		}
+	]
+}
