@@ -1,0 +1,34 @@
+{
+	"titulo" : "Zaguates pequeños en adopción",
+	"mensaje" : "Si estas buscando una mascota pequeña acá podras encontrar unas lindas opciones para adoptar, no te pierdas esta oportunidad",
+	"fechaIngreso" : "Agosto 2020",
+	"cantidad" :	5,
+	"active" :	true,
+	"estado" : "Disponibles",
+	"mascotas" : [
+		{
+			"Nombre" : "Canela",
+			"Genero" : "Hembra",
+			"Edad" : "2 años",
+			"Descripción" : "Es muy cariñosa y juguetona..."
+		},
+		{
+			"Nombre" : "Chester",
+			"Genero" : "Macho",
+			"Edad" : "7 meses",
+			"Descripción" : "Es muy tierno, está desparramado"
+		},
+		{
+			"Nombre" : "Felo",
+			"Genero" : "Macho",
+			"Edad" : "1 año",
+			"Descripción" : "Es enérgico, simpático, cariñoso"
+		},
+		{
+			"Nombre" : "Frijol",
+			"Genero" : "Macho",
+			"Edad" : "1.5 Años",
+			"Descripción" : "Es muy consentido y extremadamente sociable"
+		}
+	]
+}
